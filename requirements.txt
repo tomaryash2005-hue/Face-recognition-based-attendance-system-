@@ -1,5 +1,5 @@
-opencv-contrib-python==4.10.0.84
-numpy==2.1.1
-pandas==2.2.3
-streamlit==1.39.0
-plotly==5.24.1
+opencv-contrib-python>=4.9,<4.11
+numpy>=1.26,<3
+pandas>=2.2
+streamlit>=1.38
+plotly>=5.20
